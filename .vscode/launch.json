@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "[AOC] Day 1 Part 1",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day1/part1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day1/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 1 Part 2",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day1/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day1/input.txt"
+            ]
+        }
+    ]
+}
