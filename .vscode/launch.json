@@ -5,14 +5,25 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "[AOC] Day 1 Part 1",
+            "name": "[AOC] Day 2 Part 2",
             "type": "python",
             "request": "launch",
-            "program": "C:/Users/georg/code/aoc/day1/part1.py",
+            "program": "C:/Users/georg/code/aoc/day2/part2.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                "--input_file", "C:/Users/georg/code/aoc/day1/input.txt"
+                "--input_file", "C:/Users/georg/code/aoc/day2/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 2 Part 1",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day2/part1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day2/input.txt"
             ]
         },
         {
@@ -20,6 +31,17 @@
             "type": "python",
             "request": "launch",
             "program": "C:/Users/georg/code/aoc/day1/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day1/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 1 Part 1",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day1/part1.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
