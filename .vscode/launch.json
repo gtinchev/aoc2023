@@ -5,6 +5,28 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "[AOC] Day 3 Part 2",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day3/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day3/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 3 Part 1",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day3/part1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day3/input.txt"
+            ]
+        },
+        {
             "name": "[AOC] Day 2 Part 2",
             "type": "python",
             "request": "launch",
