@@ -16,6 +16,17 @@
             ]
         },
         {
+            "name": "[AOC] Day 9 Part 2 Small",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day9/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day9/input_small.txt"
+            ]
+        },
+        {
             "name": "[AOC] Day 9 Part 1 Small",
             "type": "python",
             "request": "launch",
