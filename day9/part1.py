@@ -20,7 +20,7 @@ def main():
     final_sum = 0
     with open(args.input_file, "r") as file:
         for line in file:
-            numbers = [int(x) for x in line.strip().split()]
+            numbers = np.array([int(x) for x in line.strip().split()], dtype=np.int64)
             found = False
             last_digits = numbers[-1]
             while not found:
