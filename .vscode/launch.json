@@ -5,6 +5,83 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "[AOC] Day 10 Part 2 Small 4",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input_small4.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 2 Small 3",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input_small3.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 2 Small 2",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input_small2.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 2 Small",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input_small.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 2",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 1",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input.txt"
+            ]
+        },
+        {
+            "name": "[AOC] Day 10 Part 1 Small",
+            "type": "python",
+            "request": "launch",
+            "program": "C:/Users/georg/code/aoc/day10/part1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--input_file", "C:/Users/georg/code/aoc/day10/input_small.txt"
+            ]
+        },
+        {
             "name": "[AOC] Day 9 Part 2",
             "type": "python",
             "request": "launch",
